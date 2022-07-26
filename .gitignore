@@ -11,6 +11,10 @@ node_modules
 # dist
 # dist-ssr
 # *.local
+pulic
+src
+index.html
+vite.config.js
 
 # Editor directories and files
 .vscode/*
