@@ -26,7 +26,7 @@ your preferred browser.
 127.0.0.1:5173
 ```
 ### Deployment
-This App was deployed here: [https://achraf2020codereactcounter.netlify.app/]()
+This App was deployed here: https://achraf2020codereactcounter.netlify.app
 
 ## Tech
 - Vite ⚡
